@@ -17,7 +17,7 @@ int main()
     // The line above creates a smart pointer to the value 7. This will be covered later in the course.
 
     string number;
-    cout << "Type in an Integer %%%: ";
+    cout << "Type in an Integer %: ";
     cin >> number;
     cout << "You typed: " << number << endl;
 
